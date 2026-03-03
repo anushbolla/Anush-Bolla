@@ -1,3 +1,3 @@
-# Anush-Bolla
+# Hello Everyone, I'm AB - ANUSH BOLLA
 
-<img src="https://undraw_process_0wew.png" width="100%" />
+<img src="undraw_process_0wew.png" width="100%" />
