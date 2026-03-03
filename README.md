@@ -9,15 +9,6 @@
 - 🚀 Enthusiastic about the intersection of machine learning and data engineering, exploring ways to leverage data for impactful solutions.
 
 
-## 🌐 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anush-bolla)
-
-[![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle)]([YOUR_LINK](https://www.kaggle.com/anushbolla))
-
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:analystprecision@gmail.com)
-
-
 ## 🌐 Let's Stay Connected 🌍
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/anushbolla)
